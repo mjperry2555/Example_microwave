@@ -1,8 +1,8 @@
+Python
 microwave example
+
 Coupling Matrix Tuner
-
 Interactive GUI for tuning microwave filter coupling matrices using Touchstone measurement data and coupling-matrix synthesis techniques.
-
 * Loads measured S-parameters from .s2p files
 * Fits an initial coupling matrix automatically
 * Live matrix editing with real-time S11/S21 updates
