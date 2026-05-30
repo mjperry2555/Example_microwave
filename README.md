@@ -1,4 +1,4 @@
-micropy-microwave example
+microwave example
 Coupling Matrix Tuner
 
 Interactive GUI for tuning microwave filter coupling matrices using Touchstone measurement data and coupling-matrix synthesis techniques.
